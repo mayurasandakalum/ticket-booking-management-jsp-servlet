@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Dinith\OneDrive - Sri Lanka Institute of Information Technology\Pictures\Camera Roll\New folder (2)"/>
+			<item value="C:\Users\Dinith\OneDrive - Sri Lanka Institute of Information Technology\Desktop\first1\UserManagement"/>
+			<item value="C:\Users\Dinith\Videos\newwww\New folder (2)"/>
+			<item value="E:\New folder (6)\New folder (2)"/>
+		</list>
+	</section>
+</section>
